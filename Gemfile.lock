@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    lnurl (1.1.1)
-      bech32 (~> 1.1)
+    lnurl (1.1.2)
+      bech32 (>= 1.1)
 
 GEM
   remote: https://rubygems.org/
